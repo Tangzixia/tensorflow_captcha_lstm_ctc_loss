@@ -1,0 +1,2 @@
+# tensorflow_captcha_lstm_ctc_loss
+针对不定长的验证码使用ctc_loss+lstm进行训练，然后在测试集合上面进行测试
